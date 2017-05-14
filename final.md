@@ -50,6 +50,7 @@ Each team member will present for 1.5 - 2 minutes.  Each team member is responsi
 - Mongo.js - Somparb
 - Hapi/Koa - Ruturaj
 - Mocha - Prashant
+- rword
 
 
 
