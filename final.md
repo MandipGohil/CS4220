@@ -11,7 +11,7 @@ Each team member will present for 1.5 - 2 minutes.  Each team member is responsi
 
  - You should be able to answer any questions regarding the code you present on.
 
-####Grading
+#### Grading
 ---
 - **40PTS** - Stay within allotted time.
 - **30PTS** - Code Explanation.
